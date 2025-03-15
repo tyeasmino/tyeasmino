@@ -5,20 +5,29 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tyeasmino" alt="tyeasmino" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/tyeasmino" target="blank"><img src="https://img.shields.io/twitter/follow/tyeasmino?logo=twitter&style=for-the-badge" alt="tyeasmino" /></a> </p>
+
 - 🔭 I’m currently working on [HormoneLab](https://hormonelab.vercel.app/)
 
 - 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **tyeasmino@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-fxg1awrK3VFXawP9mQAv_tRDRVIKRlL/view?usp=sharing](https://drive.google.com/file/d/1-fxg1awrK3VFXawP9mQAv_tRDRVIKRlL/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-fxg1awrK3VFXawP9mQAv_tRDRVIKRlL/view?usp=sharing)
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tamima-yeasmin-286123168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tamima-yeasmin-286123168/" height="30" width="40" /></a>
+<a href="https://dev.to/tyeasmino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tyeasmino" height="30" width="40" /></a>
+<a href="https://twitter.com/tyeasmino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tyeasmino" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tamima-yeasmin-286123168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamima-yeasmin-286123168" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20483032/tamima-yeasmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20483032/tamima-yeasmin" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/tamima1530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/tamima1530" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/tyeasmino106/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tyeasmino106/" height="30" width="40" /></a>
+<a href="https://kaggle.com/tamima1530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tamima1530" height="30" width="40" /></a>
+<a href="https://fb.com/tyeasmino106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tyeasmino106" height="30" width="40" /></a>
+<a href="https://medium.com/@tyeasmino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tyeasmino" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/tyeasmino" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/tyeasmino" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/tyeasmino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/tyeasmino" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/tamima1530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/tamima1530" height="30" width="40" /></a>
